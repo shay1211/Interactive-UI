@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DFD9EFCB-071C-4C1F-9BAB-B3133EF898FE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5CE9F8E-892D-4377-9629-3D3DF1AE072D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Interactive UI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D5CE9F8E-892D-4377-9629-3D3DF1AE072D - 2d5abee05534829e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Interactive_UI.ContentView.body.getter : some"
+                  moduleName = "Interactive UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shayafadel/Desktop/testing/First%20Project/STEM%20Stars/About%20Me%20Project/Interactive%20UI/Interactive%20UI/Interactive%20UI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16">
+               </Location>
+               <Location
+                  uuid = "D5CE9F8E-892D-4377-9629-3D3DF1AE072D - 37d20291894e7293"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.border&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, width: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.tint&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(Swift.Optional&lt;&#x3c4;_1_0&gt;) -&gt; some&gt;&gt;.0)&gt; in Interactive_UI.ContentView.body.getter : some"
+                  moduleName = "Interactive UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shayafadel/Desktop/testing/First%20Project/STEM%20Stars/About%20Me%20Project/Interactive%20UI/Interactive%20UI/Interactive%20UI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
